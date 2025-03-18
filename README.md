@@ -1,0 +1,2 @@
+# gpt-summarizer-browser-extension
+ 
